@@ -1,0 +1,16 @@
+.container{
+    max-width: 980px;
+    margin: 0 auto;
+}
+.banner-top{
+    background: url(../img/Campo-e-Cidade-na-Educacao-Infantil.jpg);
+    height: 90vh;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 980px;
+}
+
+
+.bloco{
+    display: flex;
+}
