@@ -77,3 +77,8 @@ footer{
     background-color:rgb(62, 190, 90);
     box-shadow: 0 4px 8px 0 rgba(30, 255, 0, 0.6);
 }
+
+div{
+    margin: 5px;
+    padding: 10 px;
+}
